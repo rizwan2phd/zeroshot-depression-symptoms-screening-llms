@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Resource-Efficient LLMs for Depression Symptoms Screening: Performance and Limitations in Zero-Shot Setting"
+abstract: >
+  Zero-shot classification of DSM-5 Major Depressive Disorder symptom categories
+  from text using multiple open-source large language models. Includes a flexible
+  multi-architecture LLM classification pipeline and a Kaggle-compatible analysis
+  notebook for evaluation of model performance and misclassification patterns.
+license: MIT
+year: 2025
+authors:
+  - family-names: "LastName"
+    given-names: "FirstName"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+preferred-citation:
+  type: conference-paper
+  title: "Resource-Efficient LLMs for Depression Symptoms Screening: Performance and Limitations in Zero-Shot Setting"
+  authors:
+    - family-names: "LastName"
+      given-names: "FirstName"
+  collection-title: "Proceedings of the LREC 2025 Workshop"
+  year: 2025
