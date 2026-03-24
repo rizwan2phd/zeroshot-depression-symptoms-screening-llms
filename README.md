@@ -166,7 +166,7 @@ The notebook computes:
 
 ## Dataset
 
-The experiments use **ReDSM5** ([irlab-udc/redsm5](https://huggingface.co/datasets/irlab-udc/redsm5)), a corpus of 1,484 Reddit posts sentence-level annotated for DSM-5 MDD symptoms by a licensed psychologist (CIKM 2025). It is extended with control sentences labeled `NONE` to form the full evaluation set.
+The experiments use **ReDSM5** ([irlab-udc/redsm5](https://huggingface.co/datasets/irlab-udc/redsm5)), a corpus of Reddit posts sentence-level annotated for DSM-5 MDD symptoms by a licensed psychologist (CIKM 2025). It is extended with control sentences labeled `NONE` to form the full evaluation set.
 
 ReDSM5 is a **gated dataset** — to access it, complete the [data use agreement form](https://www.irlab.org/ReDSM5_agreement.odt) and email it to [eliseo.bao@udc.es](mailto:eliseo.bao@udc.es). A public anonymized sample of 25 entries is freely available at [irlab-udc/redsm5-sample](https://huggingface.co/datasets/irlab-udc/redsm5-sample).
 
@@ -176,14 +176,14 @@ ReDSM5 is a **gated dataset** — to access it, complete the [data use agreement
 
 ## Citation
 
-If you use this code or find our work useful, please cite both our paper and the ReDSM5 dataset:
+If you use this code or find our work useful, please cite both, our paper and the reference ReDSM5 dataset:
 
 ```bibtex
-@inproceedings{yourname2025dsm5llm,
+@inproceedings{rizwan2025dsm5llm,
   title     = {Resource-Efficient LLMs for Depression Symptoms Screening: Performance and Limitations in Zero-Shot Setting},
-  author    = {Your Name and Co-Author Name},
-  booktitle = {Proceedings of the LREC 2025 Workshop},
-  year      = {2025},
+  author    = {Muhammad Rizwan and Jure Demšar},
+  booktitle = {Proceedings of the RaPID-6 @LREC 2026},
+  year      = {2026},
 }
 
 @misc{bao2025redsm5,
