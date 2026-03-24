@@ -32,23 +32,7 @@ A **free public sample** (25 paraphrased, anonymized entries) is available witho
 
 Sentences labeled `SPECIAL_CASE` are excluded from evaluation in this work.
 
----
 
-### Symptom Distribution (status=1 only)
-
-| Symptom | Posts |
-|---|---|
-| DEPRESSED_MOOD | 328 |
-| WORTHLESSNESS | 311 |
-| SUICIDAL_THOUGHTS | 165 |
-| ANHEDONIA | 124 |
-| FATIGUE | 124 |
-| SLEEP_ISSUES | 102 |
-| COGNITIVE_ISSUES | 59 |
-| APPETITE_CHANGE | 44 |
-| PSYCHOMOTOR | 35 |
-
----
 
 ### Experiment Input File (`dsm5_control_all.csv`)
 
