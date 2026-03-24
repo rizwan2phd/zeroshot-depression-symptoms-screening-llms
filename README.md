@@ -7,7 +7,7 @@
 Official code and data for the paper:
 
 > **Resource-Efficient LLMs for Depression Symptoms Screening: Performance and Limitations in Zero-Shot Setting**  
-> *Accepted at LREC 2025 Workshop*
+> *Accepted at RaPID-6@MENTAL.ai@LREC2026*
 
 ---
 
@@ -197,6 +197,11 @@ If you use this code or find our work useful, please cite both, our paper and th
   note         = {Accepted at CIKM 2025}
 }
 ```
+
+## Acknowledgement
+
+
+This publication has received funding from the European Union’s Horizon Europe research and innovation program under the Marie Sklodowska-Curie COFUND Postdoctoral Programme grant agreement No.101081355- SMASH and by the Republic of Slovenia and the European Union from the European Regional Development Fund.
 
 ---
 
